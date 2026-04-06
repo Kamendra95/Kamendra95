@@ -1,81 +1,105 @@
 <h1 align="center">Hi 👋, I'm Kamendra Kumar</h1>
-<h3 align="center">A Passionate Full Stack Web Developer from India</h3>
+<h3 align="center">🚀 Full Stack Web Developer | MERN Stack Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;Frontend+%7C+Backend+Engineer;MERN+Stack+Specialist;Always+Learning+Something+New&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;MERN+Stack+Engineer;Building+Scalable+Web+Apps;Always+Learning+New+Tech&center=true&width=500&height=45&color=00F7FF&vCenter=true&size=22">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=blue&style=flat" alt="profile views"/>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 🌱 I’m currently learning **MERN Stack & Advanced DSA**
-- 🔭 I’m working on **real-world web apps, clones, and scalable backend systems**
-- 💼 I'm open to **Full Stack Developer Internships, Remote Roles, and Freelance Projects**
-- 💬 Ask me about **JavaScript, React, Express.js, MongoDB, MySQL, and REST APIs**
-- ⚡ Fun fact: I love **debugging**, competitive coding, and discovering tech trends 🚀
+<img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
----
-
-### 🛠️ Tech Stack
-
-#### 💻 Frontend:
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
-
-
-#### 🧰 Backend:
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
-
-
-#### 🗄️ Databases:
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-
-#### 🧩 Tools & Platforms:
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/-Render-46E3B7?logo=render&logoColor=black)
+- 🌱 Currently learning **MERN Stack & Advanced DSA**
+- 🔭 Working on **Real-world Projects & Scalable Backend Systems**
+- 💼 Open to **Internships | Freelance | Remote Jobs**
+- 💬 Ask me about **React, Node.js, MongoDB, REST APIs**
+- ⚡ Fun fact: **Debugging is my superpower 😎**
 
 ---
 
-### 📈 GitHub Stats
+## 🛠️ Tech Stack
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gautamjha321&show_icons=true&theme=github_dark" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gautamjha321&theme=github-dark&hide_border=true" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gautamjha321&layout=compact&theme=github_dark" alt="Top Languages" />
-</p> -->
-
----
-
-### 🔗 Connect with Me
-
+### 💻 Frontend
 <p>
-  <a href="in/kamendra-kumar-9b1aa9314"/ target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs" />
+</p>
+
+### 🧰 Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄️ Database
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### 🧩 Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify,render" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=yourusername&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 Achievements & Activity
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=onestar&no-frame=true&margin-w=10"/>
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
-  <a href="mailto:surajkumar4548656@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white">
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white">
+  <a href="https://github.com/yourusername" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40"/>
   </a>
 </p>
 
 ---
 
+## 💡 Quote of the Day
+
+<p align="center">
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i><br/>
+  — Cory House
+</p>
 
 ---
 
-> 💬 _“Code is like humor. When you have to explain it, it’s bad.” — Cory House_
+## 🚀 Current Focus
+
+- 🔥 Building **Full Stack Projects**
+- 📚 Practicing **DSA for placements**
+- 🌍 Exploring **New Technologies**
+
+---
+
+<p align="center">
+  ⭐️ From <b>Kamendra Kumar</b> | Keep Learning 🚀
+</p>
