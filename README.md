@@ -20,11 +20,11 @@
 
 <img align="right" height="170" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
-- 🌱 Learning **MERN Stack & Advanced DSA**
+- 🌱 Learning **MERN Stack & Basic DSA**
 - 🔭 Building **Real-world Projects**
 - 💼 Open to **Internships | Freelance | Remote Jobs**
 - 💬 Ask me about **React, Node.js, MongoDB, APIs**
-- ⚡ Fun fact: **Debugging is my favorite skill 😎**
+- ⚡ Fun fact: **Content Creation is my favorite skill 😎**
 
 ---
 
