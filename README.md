@@ -91,7 +91,7 @@
   <a href="https://www.linkedin.com/in/kamendra-kumar-9b1aa9314/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:sharmakamendra200@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
   </a>
   <a href="https://github.com/kamendra95" target="_blank">
