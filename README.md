@@ -94,7 +94,7 @@
   <a href="mailto:your-email@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
   </a>
-  <a href="https://github.com/yourusername" target="_blank">
+  <a href="https://github.com/kamendra95" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="45"/>
   </a>
 </p>
